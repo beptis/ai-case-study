@@ -5,17 +5,9 @@
 
 ## Overview and Origin
 
-* **Anthropic** is an AI research and development company headquarted in San Francisco, CA. 
+* **Anthropic** is an AI research and development company headquarted in San Francisco, CA. Its mission is to build and research safe and reliable AI systems based on the belief that AI will have a vast impact on society as a whole. Founded in 2021 by Dario Amodei, Paul Christiano, and Daniel Ziegler, Anthropic came about in response to deep concern about the potential safety concerns–from both human and AI actors–associated with advanced artificial intelligence. 
 
-* Its mission is to build and research safe and reliable AI systems based on the belief that AI will have a vast impact on society as a whole.
-
-* Daniela and Dario Amodei (siblings) co-founded Anthropic in 2021 after leaving Open
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
+At time of writing, Anthropic is a public benefit corporation – meaning their mission to develop safe and responsible AI is codified explicitly in their corporate charter. Their initial funding came primarily from a mixture of philathropic grants, venture capital investments, and private invesments, but have since notably received $300 million in investment from Google and $4 billion from Amazon in 2023.
 
 ## Business Activities
 
