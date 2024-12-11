@@ -1,19 +1,20 @@
 # ai-case-study
 Module Challenge 1 of CU AI Bootcamp
 
-# TITLE
+# Anthropic: Building Safer Artificial Intelligence (AI)
 
 ## Overview and Origin
 
-* Name of company
+* **Name:** Anthropic
 
-* When was the company incorporated?
+* **When was the company incorporated?** In 2021, as a public benefit corporation in San Francisco, CA. 
 
-* Who are the founders of the company?
+* **Who are the founders of the company?** Former OpenAI researchers, including Dario and Daniela Amodei, Paul Christiano, and Jared Kaplan.
 
-* How did the idea for the company (or project) come about?
+* **How did the idea for the company (or project) come about?** Founded largely in response to a general acceleration in AI development and the potential danger of advanced AI systems to humanity, Anthropic's primary reason for being is designing, researching, and developing AI with a human-centered approach that prioritizes safety and responsibility. 
 
-* How is the company funded? How much funding have they received?
+* **How is the company funded? How much funding have they received?**
+Initially through philanthropic grants and venture capital, later supplemented by major investments: $300M from Google (early 2023) and $4B from Amazon (late 2023). Anthropic also generates significant revenue with the Claude API through tiered service models, enterprise services, and pay-per-use API access. 
 
 ## Business Activities
 
