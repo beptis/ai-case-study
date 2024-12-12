@@ -66,6 +66,6 @@ The key technologies align firmly with Anthropic's core strengths: Constitutiona
 - [Interview with Dario Amodei - NBC](https://www.youtube.com/watch?v=Y2N-uhZFPIM)
 - [Interview with Dario Amodei - In-depth Discussion](https://www.youtube.com/watch?v=ugvHCXCOmm4)
 - [Google's $300M Investment - The Verge](https://www.theverge.com/2023/2/3/23584540/google-anthropic-investment-300-million-openai-chatgpt-rival-claude)
-- [Amazon's Initial $4B Investment - CNBC](https://www.cnbc.com/2023/09/25/amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic.html)
-- [Amazon's Additional $4B Investment - CNBC](https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html)
+- [Amazon's Initial $4B Investment - CNBC](https://cnb.cx/48tsPfF)
+- [Amazon's Additional $4B Investment - CNBC](https://cnb.cx/4913nyO)
 - [Grand View Research, AI Market Size Report](https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market)
